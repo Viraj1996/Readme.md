@@ -1,7 +1,7 @@
 Hi 👋 My name is Viraj Pandya
 =============================
 
-I'm an aspiring Data Analyst/Data Scientist with a passion for turning raw data into actionable insights. - 📈 My goal is to leverage data to solve real-world problems and make data-driven decisions accessible to everyone. - 🎓 I'm currently pursuing Data Science and Machine Learning course from Scaler Academy, honing my skills in data analysis, statistics, machine learning, and data visualization. 🛠️ \*\*Skills:\*\* - 💻 Programming Languages: Python - 📊 Data Analysis: Pandas, NumPy, SQL - 📈 Data Visualization: Matplotlib, Seaborn, Plotly - 🤖 Machine Learning: Scikit-Learn - 📉 Statistical Analysis: Hypothesis Testing, Regression Analysis - 📦 Tools: Jupyter Notebook, Git - 🧐 Data Cleaning and Preprocessing
+I'm an aspiring Data Analyst/Data Scientist with a passion for turning raw data into actionable insights. - 📈 My goal is to leverage data to solve real-world problems and make data-driven decisions accessible to everyone. - 🎓 I'm currently pursuing Data Science and Machine Learning course from Scaler Academy, honing my skills in data analysis, statistics, machine learning, and data visualization. <p><ul>🛠️ \*\*Skills:\*\* - 💻 Programming Languages: Python - 📊 Data Analysis: Pandas, NumPy, SQL - 📈 Data Visualization: Matplotlib, Seaborn, Plotly - 🤖 Machine Learning: Scikit-Learn - 📉 Statistical Analysis: Hypothesis Testing, Regression Analysis - 📦 Tools: Jupyter Notebook, Git - 🧐 Data Cleaning and Preprocessing</ul>
 
 *   🌍  I'm based in Mumbai, India
 *   ✉️  You can contact me at [virajpandya96@gmail.com](mailto:virajpandya96@gmail.com)
